@@ -1,4 +1,7 @@
-### Hi there 👋
+![Naoki1126's github stats](https://github-readme-stats.vercel.app/api?username=Naoki1126&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki1126&theme=radical)
+
+These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **Naoki1126/Naoki1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
